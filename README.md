@@ -1,5 +1,5 @@
 # slack-messaging
-Sent Message/Notifications to Slack Channels using Python Script
+Send Message/Notifications to Slack Channels using Python Script
 
 To make use of this script we first need to create a Slack App for us to post on behalf of the script.
 
