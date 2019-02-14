@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/donofden/slack-messaging.svg)](http://hits.dwyl.io/donofden/slack-messaging)
+
 # slack-messaging
 Send Message/Notifications to Slack Channels using Python Script
 
